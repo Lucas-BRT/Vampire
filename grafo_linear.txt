@@ -1,5 +1,0 @@
-% -- ARQUIVO: teste1_linear.p --
-% (Incluir o KERNEL acima)
-fof(e1, axiom, aresta(v1, v2)).
-fof(e2, axiom, aresta(v2, v3)).
-% Resultado Esperado: Theorem
